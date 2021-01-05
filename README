@@ -1,0 +1,15 @@
+************************************************************************************************
+Maria Fernanda Becerra
+mfbecerr
+CSE101
+pa6
+README
+************************************************************************************************
+Files Submitted:
+
+README - catalog of files submitted
+Makefile - makes Order and WordFrequency
+Dictionary.h - header file for Dictionary ADT
+Dictionary.c - .c file for Dictionary ADT
+DictionaryTest.c - test client for Dictionary ADT
+Order.c - prints Dictionary keys in pre, post, and in order
